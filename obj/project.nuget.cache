@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JPvNf1qsKQBhpmLAKZhbih4K01oBSxgEx/BRqIdZhCAtP6NztLfFF3NheYPhFjx/ZtRz2rm+mej4RVsH+LWlmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crawf\\Desktop\\Byui\\Prog with classes\\cycle\\Unit05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crawf\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\crawf\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
